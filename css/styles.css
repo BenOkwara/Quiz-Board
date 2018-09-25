@@ -1,3 +1,14 @@
 body {
   background-color: blue;
 }
+.butn {
+  display: flex;
+  align-items: flex-end;
+  float: right;
+  padding: 10px;
+}
+.blockquote-reverse {
+  padding-top: 65px;
+  padding-left: 20px;
+  color: yellow;
+}
