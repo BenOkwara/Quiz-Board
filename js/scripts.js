@@ -7,4 +7,7 @@ $(document).ready(function) {
   var 4 = $("input:checkbox[name=inline]:checked").val();
   var 5 = $("input:checkbox[name=github]:checked").val();
   var 6 = $("input:checkbox[name=type]:checked").val();
+
+  var youScore = parseIn(1)+parseIn(2)+parseIn(3)+parseIn(4)+parseIn(5)+parseIn(6);
+  $("youScore").text("HI THERE! HERE'S WHAT YOU SCORED: " +youScore + "%");
 }
