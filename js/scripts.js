@@ -9,13 +9,6 @@ $(document).ready(function() {
   var Qn4 = $("input:radio[name=inline]:checked").val();
   var Qn5 = $("input:radio[name=github]:checked").val();
   var Qn6 = $("input:radio[name=type]:checked").val();
-  console.log(Qn1)
-  console.log(Qn2)
-  console.log(Qn3)
-  console.log(Qn4)
-  console.log(Qn5)
-  console.log(Qn6)
-  debugger;
 
   var youScore = parseInt(Qn1)+parseInt(Qn2)+parseInt(Qn3)+parseInt(Qn4)+parseInt(Qn5)+parseInt(Qn6);
   $("#youScore").text("HI THERE! HERE'S WHAT YOU SCORED: " +youScore + "%");
@@ -24,6 +17,7 @@ $(document).ready(function() {
 
   $("form#fwaweru").hide();
   $("#youScore").show();
+  $("#myemail").show();
     event.preventDefault();
    });
 

@@ -24,4 +24,4 @@ Anyone with issues or questions to ask, ideas or concerns, you can hit me-up
 ### License
 [MIT License](https://choosealicense.com/licenses/mit/#)
 
-Copyright (c) {2008} {gen.co.}
+Copyright :copyright: {2008} {gen.co.}
