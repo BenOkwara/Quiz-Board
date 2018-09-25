@@ -20,3 +20,12 @@ h1 {
 .em {
   color: red;
 }
+#submit {
+  float: right;
+}
+.p {
+  font-size: 1.1em;
+  color: orange;
+}
+#youScore {
+}

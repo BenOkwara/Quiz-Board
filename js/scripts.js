@@ -1,13 +1,30 @@
-$(document).ready(function) {
+/*  ====================Business logic=====================*/
+
+$(document).ready(function() {
 
   $("form#fwaweru").submit(function(event){
-  var 1 = $("input:checkbox[name=blockElements]:checked").val();
-  var 2 = $("input:checkbox[name=block]:checked").val();
-  var 3 = $("input:checkbox[name=inlineElements]:checked").val();
-  var 4 = $("input:checkbox[name=inline]:checked").val();
-  var 5 = $("input:checkbox[name=github]:checked").val();
-  var 6 = $("input:checkbox[name=type]:checked").val();
+  var Qn1 = $("input:radio[name=blockElements]:checked").val();
+  var Qn2 = $("input:radio[name=block]:checked").val();
+  var Qn3 = $("input:radio[name=inlineElements]:checked").val();
+  var Qn4 = $("input:radio[name=inline]:checked").val();
+  var Qn5 = $("input:radio[name=github]:checked").val();
+  var Qn6 = $("input:radio[name=type]:checked").val();
+  console.log(Qn1)
+  console.log(Qn2)
+  console.log(Qn3)
+  console.log(Qn4)
+  console.log(Qn5)
+  console.log(Qn6)
+  debugger;
 
-  var youScore = parseIn(1)+parseIn(2)+parseIn(3)+parseIn(4)+parseIn(5)+parseIn(6);
-  $("youScore").text("HI THERE! HERE'S WHAT YOU SCORED: " +youScore + "%");
-}
+  var youScore = parseInt(Qn1)+parseInt(Qn2)+parseInt(Qn3)+parseInt(Qn4)+parseInt(Qn5)+parseInt(Qn6);
+  $("#youScore").text("HI THERE! HERE'S WHAT YOU SCORED: " +youScore + "%");
+
+      //==== user Interface ====//
+
+  $("form#fwaweru").hide();
+  $("#youScore").show();
+    event.preventDefault();
+   });
+
+});
