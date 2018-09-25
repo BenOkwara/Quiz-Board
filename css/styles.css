@@ -12,3 +12,8 @@ body {
   padding-left: 20px;
   color: yellow;
 }
+h1 {
+  color: white;
+  font-size: 35px;
+  font-family:monospace;
+}
