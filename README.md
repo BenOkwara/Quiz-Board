@@ -12,7 +12,7 @@ Your device needs to have the following Installations:
 * code
 * Internet access
 ## Known Bugs
-  none
+  none  
 ## Technologies Used
                     * HTML
                     * CSS
