@@ -25,8 +25,7 @@ Your device needs to have the following Installations:
 ## BDD
 | Behaviour   |      Input     |  Output |
 |----------|:-------------:|------:|
-| User does not enter name |  "" | Please ENTER name.Form does not appear |
-| User enters name |    "Example"   |   The form will appear |
+| User clicks the front end-image |    "Example"   |   will be launched to the quiz |
 | User answers all questions wrong | 0,0,0,0,0,0 |    Nice try{name},your score is 0 |
 | User answers 1 question correct | 10,0,0,0,0,0 |    Nice try{name},your score is 10 |
 | User answers 2 questions correct | 10,10,0,0,0,0 |    Nice try{name},your score is 20 |
