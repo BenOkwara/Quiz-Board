@@ -34,9 +34,8 @@ The Program is to Evaulate the corresponding Marks of the User.
 
 The Program should later return the User's Performance Marks thereafter.
 
-The Program Halts there, until the user refreshes the Page.
+The Program Halts there, until the user refreshes the Page
 ----------------------------------------------------------------------------
-
 ## SUPPORT AND CONTACT CHANNELS
 Anyone with questions to ask, ideas or concerns, you can hit me-up
 :phone: 0705816180    :inbox_tray: wawerubenson47@gmail.com
@@ -45,4 +44,4 @@ Anyone with questions to ask, ideas or concerns, you can hit me-up
 [MIT License](https://choosealicense.com/licenses/mit/#)
 
 
-__copyright :copyright: 2008 gen.co.)__
+__copyright :copyright: 2008 gen.co.__
