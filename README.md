@@ -23,6 +23,7 @@ Your device needs to have the following Installations:
 * JavaScript (I have used, _Bootstrap_ thumbnail as a link to access the quiz section)
 
 ## BDD
+
 | Behaviour   |      Input     |  Output |
 |----------|:-------------:|------:|
 | User clicks the front end-image |   :point_up_2:    |   Will be launched to the quiz |
