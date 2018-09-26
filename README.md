@@ -17,10 +17,10 @@ Your device needs to have the following Installations:
 ## KNOWN BUGS
   none  
 ## TECHNOLOGIES USED
-     * HTML
-     * CSS
-     * jQuery
-     * JavaScript (I have used, _Bootstrap_ thumbnail as a link to access the quiz section)
+* HTML
+* CSS
+* jQuery
+* JavaScript (I have used, _Bootstrap_ thumbnail as a link to access the quiz section)
 
 ## BDD
 | Behaviour   |      Input     |  Output |
