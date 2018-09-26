@@ -7,7 +7,7 @@ Once you click the image on the front-end page, it will launch you to simple Jav
 ## Setup/Installation Requirements
 Your device needs to have the following Installations:
 * Smartphone or laptop
-* git clone  https://benokwara.github.io/Quiz-Board/
+* git clone  https://github.com/BenOkwara/Quiz-Board.git
 * atom
 * code
 * Internet access
