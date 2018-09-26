@@ -1,7 +1,9 @@
 # Javascript Quiz
 #### This is a simple online JavaScript quiz, 25/September/2018
+---------------------------------------------------------------
 #### Author
-  Benson w. Okwara.
+  **Benson w. Okwara**
+---------------------------------------------------------------
 ## Description
 Once you click the image on the front-end page, it will launch you to simple JavaScript questions.They are 6 in numbers and each question carries (16 mks). After successful completion of the questions, scores will be tabulated and the results will be displayed on a new page.
 ## Setup/Installation Requirements
