@@ -17,7 +17,6 @@ $(document).ready(function() {
 
   $("form#fwaweru").hide();
   $("#youScore").show();
-  $("#myemail").show();
     event.preventDefault();
    });
 

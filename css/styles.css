@@ -28,4 +28,10 @@ h1 {
   color: orange;
 }
 #youScore {
+  color: silver;
+  font-size: 4em;
+  font-weight: bold;
+  font-style: italic;
+  padding-top: 5px;
+  text-align: right;
 }

@@ -18,6 +18,8 @@ Your device needs to have the following Installations:
                     * CSS
                     * jQuery
                     * JavaScript (I have used, _Bootstrap_ thumbnail as a link to access the quiz section)
+## Behaviour Driven Development
+When one has not put in any input the results page will show "your score is NaN". The program should return this when their is no input.Input Example: right answer Output Example:Total score %.
 ## Support and contact details
 Anyone with issues or questions to ask, ideas or concerns, you can hit me-up
 :phone: 0705816180    :inbox_tray: wawerubenson47@gmail.com :ok_hand:
