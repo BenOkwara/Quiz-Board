@@ -23,19 +23,19 @@ Your device needs to have the following Installations:
      * JavaScript (I have used, _Bootstrap_ thumbnail as a link to access the quiz section)
      
 ## BDD
------------------------------------------------------------------------------|
-The User is expected to Click on the image to be launched to the questions.|
+---------------------------------------------------------------------------
+The User is expected to Click on the image to be launched to the questions.
 
-The User is Expected to fill in the Quiz to his/her level best.|
+The User is Expected to fill in the Quiz to his/her level best.
 
-The User is Expected to Click 'Submit' Button upon completion of the Quiz.|
+The User is Expected to Click 'Submit' Button upon completion of the Quiz.
 
-The Program is to Evaulate the corresponding Marks of the User.|
+The Program is to Evaulate the corresponding Marks of the User.
 
-The Program should later return the User's Performance Marks thereafter.|
+The Program should later return the User's Performance Marks thereafter.
 
 The Program Halts there, until the user refreshes the Page.
-----------------------------------------------------------------------------|
+----------------------------------------------------------------------------
 
 ## SUPPORT AND CONTACT CHANNELS
 Anyone with questions to ask, ideas or concerns, you can hit me-up
@@ -45,4 +45,4 @@ Anyone with questions to ask, ideas or concerns, you can hit me-up
 [MIT License](https://choosealicense.com/licenses/mit/#)
 
 
-Copyright :copyright: 2008 __{gen.co.}__
+__copyright :copyright: 2008 gen.co.)__
