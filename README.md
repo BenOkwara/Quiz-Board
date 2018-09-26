@@ -6,7 +6,7 @@
   **Benson w. Okwara**
 ---------------------------------------------------------------
 ## DESCRIPTION
-Once you click the image on the front-end page, it will launch you to simple JavaScript questions.They are 6 in numbers and each question carries (16 mks). After successful completion of the questions, scores will be tabulated and the results will be displayed on a new page.
+Once you click the image on the front-end page, it will launch you to simple JavaScript questions.They are 6 in numbers and each question carries (16 mks). After successful completion of the questions, scores will be tabulated and the results will be displayed on a new page in %.
 ## INSTALLATION REQUIREMENTS
 Your device needs to have the following Installations:
 * Smartphone or laptop
@@ -23,19 +23,19 @@ Your device needs to have the following Installations:
      * JavaScript (I have used, _Bootstrap_ thumbnail as a link to access the quiz section)
 
 ## BDD
----------------------------------------------------------------------------
-The User is expected to Click on the image to be launched to the questions.
 
-The User is Expected to fill in the Quiz to his/her level best.
+| User answers 1 question correct | 10,0,0,0,0,0 |    Nice try{name},your score is 10 |
+| User answers 2 questions correct | 10,10,0,0,0,0 |    Nice try{name},your score is 20 |
+| User answers 3 questions correct | 10,10,10,0,0,0 |    Nice try{name},your score is 30 |
+| User answers 4 questions correct | 10,10,10,10,0,0 |    Congratulation {name},your score is 40 |
+| User answers 5 questions correct | 0,10,10,10,10,10 |    Congratulation {name},your score is 50 |
+| User answers all questions correct | 10,10,10,10,10,10 |    Congratulation {name},your score is 60 |
+| If the user does not answer a question, it is marked as wrong | 10,10,10,10,10,"" |    Congratulation{name},your score is 50 |
+| User answers 4 questions correct | 10,10,10,10,0,0 |    Congratulations {name},your score is 40 |
+| User answers 5 questions correct | 0,10,10,10,10,10 |    Congratulations {name},your score is 50 |
+| User answers all questions correct | 10,10,10,10,10,10 |    Congratulations {name},your score is 60 |
+| If the user does not answer a question, it is marked as wrong | 10,10,10,10,10,"" |    Congratulations{name},your score is 50
 
-The User is Expected to Click 'Submit' Button upon completion of the Quiz.
-
-The Program is to Evaulate the corresponding Marks of the User.
-
-The Program should later return the User's Performance Marks thereafter.
-
-The Program Halts there, until the user refreshes the Page
-----------------------------------------------------------------------------
 ## SUPPORT AND CONTACT CHANNELS
 Anyone with questions to ask, ideas or concerns, you can hit me-up
 :phone: 0705816180    :inbox_tray: wawerubenson47@gmail.com
