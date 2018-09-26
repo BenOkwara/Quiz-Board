@@ -21,10 +21,13 @@ Your device needs to have the following Installations:
      * CSS
      * jQuery
      * JavaScript (I have used, _Bootstrap_ thumbnail as a link to access the quiz section)
+     
 ## Support and contact details
 Anyone with questions to ask, ideas or concerns, you can hit me-up
-:phone: 0705816180    :inbox_tray: wawerubenson47@gmail.com :ok_hand:
+:phone: 0705816180    :inbox_tray: wawerubenson47@gmail.com
+
 ### License
 [MIT License](https://choosealicense.com/licenses/mit/#)
 
-Copyright :copyright: {2008} {gen.co.}
+
+Copyright :copyright: 2008 __{gen.co.}__
